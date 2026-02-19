@@ -1,0 +1,5 @@
+{
+  "name": "Smart Duplicate Finder",
+  "description": "An intelligent web application that uses file fingerprinting to detect duplicate files and provides AI-powered storage optimization insights.",
+  "requestFramePermissions": []
+}
